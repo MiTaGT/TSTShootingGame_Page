@@ -1,0 +1,17 @@
+{
+"companyName": "Abystraxt",
+"productName": "TSTShooting",
+"productVersion": "0.1",
+"dataUrl": "TSTShooting_page.data.unityweb",
+"wasmCodeUrl": "TSTShooting_page.wasm.code.unityweb",
+"wasmFrameworkUrl": "TSTShooting_page.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "TSTShooting_page.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
